@@ -40,3 +40,4 @@ The app should be use-able and you should be able to demo what it can do
 Host it locally or you can deploy on the cloud using a free tool
 The backend is up to you! We won’t require a database of a specific type, but again, the app has to work so make your decisions accordingly
 
+
