@@ -1,4 +1,5 @@
-const apiKey = '30e20b2bf790aec88f1787f1fe9f1028'; // Replace with your OpenWeatherMap API key  // 30e20b2bf790aec88f1787f1fe9f1028
+require('dovenv').config()
+const apiKey = process.env.WEATHER_API_KEY; // Replace with your OpenWeatherMap API key  // 
 const baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 // DOM elements
