@@ -10,6 +10,8 @@ body {
   color: #62e511;
   /* background-color: #dd1212; */
   background-image: url('images/background.png');
+  background-size: contain;
+  background-position: center;
   display: flex;
   justify-content: center;
   align-items: center;
