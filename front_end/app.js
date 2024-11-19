@@ -1,4 +1,4 @@
-require('dovenv').config()
+require('dotenv').config();
 const apiKey = process.env.WEATHER_API_KEY; // Replace with your OpenWeatherMap API key  // 
 const baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
